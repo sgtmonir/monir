@@ -1,0 +1,17 @@
+a{
+    transition: ease all .2s;
+}
+a:hover{
+    color: #9B4DCA;
+    text-decoration: none;
+}
+/* Template Text Color */
+.g-color-main{
+    color: #555;
+}
+.g-color-primary {
+    color: #9B4DCA !important;
+}
+/* Template Border */
+
+/* Template Breadcrumbs Style */
